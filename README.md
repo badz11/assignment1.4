@@ -1,4 +1,4 @@
-# assignment2.2
+# assignment1.4
 1. Read multiple JSON files into a directory to convert into a dataset.I have files text1, text2, text3 in the directory JSON.  
 
 getwd()
